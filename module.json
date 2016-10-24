@@ -1,2 +1,13 @@
 {
+  "id": "1477303800948",
+  "language": "en",
+  "title": "Sample module for testing repo services",
+  "description": "Sample IMARD module for testing repo&#39;s building and deploying functions",
+  "created": "Mon Oct 24 2016",
+  "revised": "Mon Oct 24 2016",
+  "contributors": ["IMARD system"],
+  "keywords": ["IMARD","sample","builder","repo","test"],
+  "disciplines": ["IMARD system","computer science"],
+  "studyObjectives": ["Learn the ways of adaptive learning","Embrace the power of static generators"],
+  "elements": []
 }

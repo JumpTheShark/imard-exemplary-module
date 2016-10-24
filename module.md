@@ -1,3 +1,4 @@
-Hello, World!!
+### Here be simple module
+>Written in markdown for convenience
 
-And hello, Nachasic, pleased seeing You here.
+We use extended markdown syntax for storing module markup. We allow our parser to pass through some `html` syntax al well.

@@ -1,0 +1,8 @@
+{
+  "name": "imard-module-1477303800948",
+  "version": "1.0.0",
+  "description": "Sample module for testing repo services - Sample IMARD module for testing repo&#39;s building and deploying functions",
+  "main": "module.md",
+  "author": "IMARD system",
+  "license": "MIT"
+}
